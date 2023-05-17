@@ -34,7 +34,7 @@ API, `/earthquakes` endpoint'ini sağlar ve GET istekleriyle çağrılabilir. A�
 ```
 
 ## Kurulum
-Deprem verilerini çekebilmek için Python 3 gereklidir. Python 3'ü yüklemek için Python web sitesini ziyaret edebilirsiniz.
+Deprem verilerini çekebilmek için Python 3 gereklidir. Python 3'ü yüklemek için [Python](https://www.python.org/) web sitesini ziyaret edebilirsiniz.
 
 Gerekli Python modüllerini yüklemek için aşağıdaki komutu çalıştırın:
 ```
