@@ -47,7 +47,7 @@ python app.py
 ```
 
 API, http://localhost:8000 adresinde çalışacaktır.
-<hr>
+
 ## Katkıda Bulunma
 Her türlü katkıya açığız. Projeyle ilgili hataları düzeltebilir, yeni özellikler ekleyebilir veya belgeleri geliştirebilirsiniz. Lütfen önerilerinizi ve değişikliklerinizi GitHub üzerinden yapın ve pull talepleri oluşturun.
 
