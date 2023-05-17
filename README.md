@@ -1,6 +1,6 @@
 # Python Deprem API
 
-Bu proje, Türkiye'deki deprem verilerini almak için kullanılan bir API sunmaktadır. API, Koç Üniversitesi Kandilli Rasathanesi'nin veritabanından canlı deprem verilerini çekerek kullanıcılara sunmaktadır.
+Bu proje, Türkiye'deki deprem verilerini almak için kullanılan bir API sunmaktadır. API, Boğaziçi Üniversitesi Kandilli Rasathanesi'nin veritabanından canlı deprem verilerini çekerek kullanıcılara sunmaktadır.
 
 ## Kullanım
 
